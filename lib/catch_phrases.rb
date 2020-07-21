@@ -10,3 +10,5 @@ end
 def link
   puts "It's Dangerous To Ao Alone! Take This."
 end
+
+link
